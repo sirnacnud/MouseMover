@@ -2,7 +2,7 @@
 #include <windows.h>
 
 #define MAJOR_VERSION 1
-#define MINOR_VERSION 0
+#define MINOR_VERSION 1
 
 // Default to 5 seconds
 DWORD waitTime = 5000;
